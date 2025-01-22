@@ -67,7 +67,7 @@ A modern, React-based appointment management system for law firms that enables e
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/mrigank/lawyer-appointment-system.git
+git clone https://https://github.com/mrigankraj/Lawyer-Appointment-Management-System.git
 ```
 
 2. Navigate to project directory
